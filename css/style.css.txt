@@ -1,0 +1,246 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Roboto, sans-serif;
+}
+li {
+  list-style:none;
+}
+header{
+  width: 100%;
+  background: #EEEFF1;
+  display: inline-block;
+}
+.header_logo {
+  color: #34547A;
+  font-weight: 800;
+  font-size: 48px;
+  margin-top: 56px;
+  margin-left: 350px;
+  font-family: 'Revalia', cursive;
+  text-transform: uppercase;
+  display: inline-block;
+}
+nav {
+  margin-left: 250px;
+  display: inline-block;
+}
+.topnav span {
+  color: black;
+  padding-right: 30px;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+main .wrapper {
+  background:#EEEFF1;
+    }
+main .verstka {
+  display: flex;
+ padding: 20px 10px 40px 10px;
+  margin-left: 80px;
+  }
+.left img {
+  padding-top: 150px;
+  padding-left: 300px;
+padding-right: 200px;
+  }
+.right {
+  padding-top: 10px;
+  padding-left: 20px;
+  width: 48%;
+  font-size: 25px;
+  }
+.right h1 {
+  padding-top: 40px;
+   }
+.right p {
+  padding-top: 20px;
+  padding-bottom: 30px;
+  font-size: 16px;
+  color:#727272;
+  }
+.wordsonbutton {
+  width: 250px;
+  height: 60px;
+  text-align: center;
+  background: #34547A;
+ }
+.wordsonbutton p {	
+  color: white;
+  text-transform: uppercase;
+}
+main .main2 {
+  background: white;
+  text-align: center;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  font-size: 25px;
+}
+main .main3 {
+  padding-top: 20px;
+  font-size: 16px;
+}
+.mainexperience {
+  background: #34547A;
+  padding-top: 65px;
+  padding-bottom: 65px;
+  text-align: center;
+}
+.experience img {
+  margin-left: 10px;
+  display: inline-block;
+  }
+.aaa {display: inline-block;
+text-align: left;
+font-size: 16px;
+color: white;
+}
+.naviki {
+   background: white;
+  margin-top: 50px;
+  margin-bottom: 50px;
+ }
+.aboutleft {
+   margin-left: 300px;
+  display: inline-block;
+}
+.aboutleft p {
+  font-size: 16px;
+}
+main .naviki {
+  display: inline-block;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.aboutright {
+  margin-left: 650px;
+   display:inline-block;
+}
+.opisanieraboti {
+  background: #EEEFF1;
+  text-align: center;
+    padding-top: 80px;
+  padding-bottom: 50px;
+  font-size: 25px;
+ }
+.opisanieraboti p {
+  padding-top: 20px;
+  font-size: 16px;
+  }
+.examples {
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 0 px;
+  background: white;
+}
+.znachki {
+  background: white;
+  padding-top: 85px;
+  padding-bottom: 65px;
+  }
+.line3 {
+  width: 25%;
+  margin: 0 auto;
+}
+.line4 {
+  width: 25%;
+  margin: 0 auto;
+  }
+.znachki {
+  padding-top: 30px;
+}
+.line5 {
+  width: 16%;
+  margin: 0 auto;
+}
+.contact_form {
+  background: #EEEFF1;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+.contact_wrapper {
+  font-size: 25px;
+}
+.contact_wrapper p {
+  padding-top: 30px;
+  padding-bottom: 40px;
+  font-size: 16px;
+  color: #727272;
+}
+.rightfield {height: 40px;
+width: 300px;
+background: white;
+  margin: 0 auto;
+  margin-top: 10px;
+  padding-top: 3px;
+  display: inline-block;
+  padding-left: 5px;
+}
+.rightfield p {
+  color: black;
+text-align: left;
+  font-size: 12px;
+  color: #727272;
+}
+.leftfield {height: 40px;
+width: 300px;
+background: white;
+  margin: 0 auto;
+  margin-top: 10px;
+  padding-top: 3px;
+  display: inline-block;
+  margin-left: 20px;
+  padding-left: 5px;
+  margin-bottom: 20px;
+  }
+.leftfield p {
+  color: black;
+text-align: left;
+  font-size: 12px;
+  color: #727272;
+}
+.centerfield {height: 200px;
+width: 636px;
+background: white;
+  margin: 0 auto;
+  padding-left: 5px;
+  padding-top: 5px;
+  margin-bottom: 35px;
+    }
+.centerfield p {
+  color: black;
+text-align: left;
+  font-size: 12px;
+  color: #727272;
+}
+.wordsonbutton2 {
+  width: 150px;
+  height: 40px;
+  background: #34547A;
+  margin: 0 auto;
+   }
+.wordsonbutton2 p {	
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 10px;
+}
+.end {
+  background: #34547A;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  }
+.end h1 {font-size: 20px;
+  padding-left: 200px;
+  color: white;
+  }
+.end p {font-size: 10px;
+  padding-left: 200px;
+  color: white;
+  }
+.end img {
+  padding-left: 900px;
+}
